@@ -1,2 +1,2 @@
 # MATLAB-EXAMPLES
-MATLAB
+Beginning level examples of MATLAB
