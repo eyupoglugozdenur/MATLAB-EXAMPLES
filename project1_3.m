@@ -5,7 +5,7 @@
 number=input("Please Enter A Four Digits Number: ");
 
 if number<1000 || number>9999 % If Number Is Not Four Digits Number, Message that Following the Below Is Printed to the Screen
-    fprintf("Pijamalý 'hasta' yaðýz \\þoföre\\ çabucak %%100%% güvendi \n");
+    fprintf("PijamalÃ½ 'hasta' yaÃ°Ã½z \\Ã¾ofÃ¶re\\ Ã§abucak %%100%% gÃ¼vendi \n");
 
 else %If It Is, Then It Is Continued to Calculation
 
